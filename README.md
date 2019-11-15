@@ -1,4 +1,4 @@
-## Julius Uusinarkaus - stuff I've done. 
+## Julius Uusinarkaus - stuff I've gone and done. 
 
 ### My responsive sitsi-songbook
 (Node/angular)
@@ -27,3 +27,18 @@ An electronic fresher pass service, where new students can see upcoming events, 
 The service has wildly increased fresher activity in events, as well as made it easier for students to recognise and interact with tutors. 
 
 ![front page](/images/fuksipassi.jpg)
+
+### PUPPER - Telegram quote bot 
+
+[Github](https://github.com/julkku/telegram-quote-bot)
+
+Add it to a group! Add quotes! Ask quotes! Confirmation bias makes it seem like pupper is a mega-intelligent AI. It's amazing. Pupper can save text with basic markdown, voice messages and Telegram stickers. When you ask for a /quote, it searches first, if it doesn't find anything it sends a random quote from the chat. The first user to press a vote button gets to vote on it, votes control how often the quote comes up. 
+<p float="left">
+  <img src="/images/pupperquote.jpg" width="400" />
+  <img src="images/pupperaddquote.jpg" width="400" /> 
+</p>
+
+<p float="left">
+  <img src="/images/pupperstats.jpg" width="400" />
+</p>
+Quotes returned is smaller than quotes requested because when I created pupper it was a little too popular and I needed to add a time buffer. Anyway, this is the stats for a single group, so pupper has survived pretty vigourously out in the wild. 
