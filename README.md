@@ -9,9 +9,11 @@
 
 This was my first web project, made it in an afternoon on the day of a table party in need of an electronic song book. It's pretty nifty in actual use - and has been in heavy use! 
 
-![front page](images/laulu1.jpg)
-![search](images/laulu2.jpg)
-![song-view](images/laulu3.jpg)
+<p float="left">
+  <img src="/images/laulu1.jpg" width="400" />
+  <img src="/images/laulu2.jpg" width="400" /> 
+  <img src="/images/laulu3.jpg" width="400" />
+</p>
 
 ### TKO-älys Freshman Pass 
 (Ruby on Rails)
