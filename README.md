@@ -1,19 +1,5 @@
 ## Julius Uusinarkaus - stuff I've gone and done. 
 
-### My responsive sitsi-songbook
-(Node/angular)
-
-
-[Try it](https://asplaulut.herokuapp.com/) // [Github](https://github.com/julkku/songbook-webapp)
-
-
-This was my first web project, made it in an afternoon on the day of a table party in need of an electronic song book. It's pretty nifty in actual use - and has been in heavy use! 
-
-<p float="left">
-  <img src="/images/laulu1.jpg" width="400" />
-  <img src="/images/laulu2.jpg" width="400" /> 
-  <img src="/images/laulu3.jpg" width="400" />
-</p>
 
 ### TKO-älys Freshman Pass 
 (Ruby on Rails)
@@ -42,3 +28,20 @@ Add it to a group! Add quotes! Ask quotes! Confirmation bias makes it seem like 
   <img src="/images/pupperstats.jpg" width="400" />
 </p>
 Quotes returned is smaller than quotes requested because when I created pupper it was a little too popular and I needed to add a time buffer. Anyway, this is the stats for a single group, so pupper has survived pretty vigourously out in the wild. 
+
+### My responsive sitsi-songbook
+(Node/angular)
+
+
+[Try it](https://asplaulut.herokuapp.com/) // [Github](https://github.com/julkku/songbook-webapp)
+
+
+This was my first web project, made it in an afternoon on the day of a table party in need of an electronic song book. It's pretty nifty in actual use - and has been in heavy use! 
+
+<p float="left">
+  <img src="/images/laulu1.jpg" width="400" />
+  <img src="/images/laulu2.jpg" width="400" /> 
+  <img src="/images/laulu3.jpg" width="400" />
+</p>
+
+
