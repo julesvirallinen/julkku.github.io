@@ -45,3 +45,13 @@ This was my first web project, made it in an afternoon on the day of a table par
 </p>
 
 
+### BONUS
+
+#### This Harry Potter -inspired clock 
+
+You know that clock in the Weasleys living room that shows where everyone in the family is? I made one of those that works with IFTTT or something. 
+
+[Github](https://github.com/julkku/weasley-clock) [Here it is](https://julkku.github.io/weasley-clock/clockweb/)
+
+#### [I made this school project look nice and sparkly](https://dtt-lukuvinkkikirjasto.herokuapp.com/)
+
