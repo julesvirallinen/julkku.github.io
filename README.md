@@ -45,6 +45,14 @@ This was my first web project, made it in an afternoon on the day of a table par
 </p>
 
 
+#### Debian and Ubuntu package viewer 
+(Node express server / React)
+
+[Try it](https://innovackage-browser.herokuapp.com/) // [Github](https://github.com/julkku/package-viewer-frontend)
+
+React app to analyze the contents of a /var/lib/dpkg/status (installed packages) 
+
+
 ### BONUS
 
 #### This Harry Potter -inspired clock 
